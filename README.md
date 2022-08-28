@@ -13,6 +13,7 @@ The following table shows the corresponding url to use for the application you'r
 
 | Application  | URL |
 | ------------- | ------------- |
+| OG | https://raw.githubusercontent.com/portainer/templates/master/templates-2.0.json |
 | Yacht | https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Template/yacht.json |
 | Yacht (arm) | https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Template/yacht-arm.yml |
 | Portainer v1 (no OMV)  | https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Template/portainer-v1.json  |
@@ -21,7 +22,6 @@ The following table shows the corresponding url to use for the application you'r
 | Portainer v2 (no OMV)Fem  | https://raw.githubusercontent.com/femGandhi/selfhosted_templates/master/Template/portainer-v2.json  |
 | Portainer v1 OMV | https://raw.githubusercontent.com/femGandhi/selfhosted_templates/master/Template/omv-v1.json |
 | Portainer v2 OMV | https://raw.githubusercontent.com/femGandhi/selfhosted_templates/master/Template/omv-v2.json|
-
 
 ### Prerequisites
 
